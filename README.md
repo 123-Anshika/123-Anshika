@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAHDLl-LnXI/ovf1f9HKTojjfoBSqa4C1w/view?utm_content=DAHDLl-LnXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdb76ad0c04" alt="Anshika Bharti Banner" width="100%" />
+  <img src="Blue Watercolor Floral Name Tag.png" alt="Anshika Bharti Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshika</h1>
