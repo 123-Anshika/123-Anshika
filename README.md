@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-🎯 About Me
-🎯 About Me
-
 I'm a 3rd Year B.Tech Information Technology student with a strong interest in Web Development.
 
 I enjoy designing and building interactive web applications using HTML, CSS, and JavaScript. I like turning ideas into real projects and continuously improving my development skills through hands-on practice.
@@ -58,11 +55,6 @@ C++ | Python | HTML | CSS | JavaScript | Git
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123-Anshika&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123-Anshika&layout=compact&theme=tokyonight)
 
 ---
 
