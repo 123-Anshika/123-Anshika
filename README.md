@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="Blue Watercolor Floral Name Tag.png" alt="Anshika Bharti Banner" width="100%" />
+  <img src="Screenshot 2026-03-06 203926.png" alt="Anshika Bharti Banner" width="100%" />
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Anshika</h1> -->
